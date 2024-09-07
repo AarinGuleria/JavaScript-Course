@@ -1,0 +1,1 @@
+// Its a commonly used datastructure that is used to store a list of data.
